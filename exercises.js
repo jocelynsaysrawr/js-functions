@@ -230,7 +230,7 @@ function addThenSubtract(num1, num2, num3){
 	return subtract(num3, sum);
 }
 
-console.log("addThenSubtract: ", addThenSubtract(3, 7, 30));
+console.log("addThenSubtract: ", addThenSubtract(bango3, bango4, bango5));
 
 
 /*
